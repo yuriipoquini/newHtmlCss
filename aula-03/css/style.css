@@ -1,9 +1,12 @@
 #id-destaque {
     background-color: darkcyan;
+    border: 10px solid #123411;
     color: darkred;
 }
 
 .classe-destaque {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-top: 25px;
     background-color: darkviolet;
 }
