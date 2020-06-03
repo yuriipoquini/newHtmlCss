@@ -1,0 +1,9 @@
+#id-destaque {
+    background-color: darkcyan;
+    color: darkred;
+}
+
+.classe-destaque {
+    padding-bottom: 10px;
+    background-color: darkviolet;
+}
