@@ -1,0 +1,20 @@
+a:hover{
+    background-color: darkviolet;
+    color: gold;
+}
+
+a:visited {
+    color: red;
+}
+
+a:active, a {
+    color: blue;
+}
+
+p:hover{
+    color: yellow;
+}
+
+ul li{
+    list-style: none;
+}

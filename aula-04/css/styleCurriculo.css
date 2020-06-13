@@ -1,0 +1,15 @@
+body{
+    max-width: 85%;
+    margin: auto;
+}
+
+.titulo{
+    background-color: coral;
+    color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-bottom: 3px solid red;
+}
+
+.subtitle exp{
+    margin-top: 0px;
+}
